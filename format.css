@@ -1,355 +1,502 @@
-                #swell-bootstrap .rewards-templete h1,
-                #swell-bootstrap .rewards-templete h2,
-                #swell-bootstrap .rewards-templete h3,
-                #swell-bootstrap .rewards-templete h4,
-                #swell-bootstrap .rewards-templete h5,
-                #swell-bootstrap .rewards-templete h6 {
-                  letter-spacing: 0;
-                  word-spacing: 0;
-                  text-transform: capitalize;
-                }
-                #swell-bootstrap .rewards-templete .banner .img-responsive {
-                  margin: 0;
-                  min-height: 180px;
-                }
-                #swell-bootstrap .rewards-templete .container {
-                  width: 100%;
-                }
-                #swell-bootstrap .rewards-templete .container .row {
-                  margin-right: 0;
-                  margin-left: 0;
-                }
-                #swell-bootstrap .rewards-templete .caption h1 {
-                  font-family: Droid Sans;
-                  font-size: 48px;
-                  color: #ffffff;
-                  margin: 10px 0;
-                  padding: 0;
-                  line-height: 20%;
-                  opacity: 1;
-                  float: none;
-                  display: block;
-                  width: 100%;
-                  height: auto;
-                  background: transparent !important;
-                  position: relative;
-                  text-align: right;
-                  top: 127px;
-                  right: 71px;
-                }
+#swell-bootstrap .rewards-templete h1,
+#swell-bootstrap .rewards-templete h2,
+#swell-bootstrap .rewards-templete h3,
+#swell-bootstrap .rewards-templete h4,
+#swell-bootstrap .rewards-templete h5,
+#swell-bootstrap .rewards-templete h6 {
+  letter-spacing: 0;
+  word-spacing: 0;
+  text-transform: capitalize;
+}
+#swell-bootstrap .rewards-templete .banner .img-responsive {
+  margin: 0;
+  min-height: 180px;
+}
+#swell-bootstrap .rewards-templete .container {
+  width: 100%;
+}
+#swell-bootstrap .rewards-templete .container .row {
+  margin-right: 0;
+  margin-left: 0;
+}
+#swell-bootstrap .rewards-templete .caption h1 {
+  font-family: Droid Sans;
+  font-size: 48px;
+  color: #ffffff;
+  margin: 10px 0;
+  padding: 0;
+  line-height: 20%;
+  opacity: 1;
+  float: none;
+  display: block;
+  width: 100%;
+  height: auto;
+  background: transparent !important;
+  position: relative;
+  text-align: right;
+  top: 127px;
+  right: 71px;
+}
 
-                #swell-bootstrap .rewards-templete .caption p {
-                  font-family: Droid Sans;
-                  font-size: 17px;
-                  color: #ffffff;
-                  opacity: 1;
-                  float: none;
-                  display: block;
-                  width: 100%;
-                  height: auto;
-                  background: transparent;
-                  line-height: 100%;
-                  position: relative;
-                  text-align: right;
-                  top: 221px;
-                  right: 132px;
-                                      
-                }
-                
-                #swell-bootstrap .rewards-templete .point-circle {
-                  background-color: #000000;
-                }
-                
-                #swell-bootstrap .rewards-templete .point-circle h2,
-                #swell-bootstrap .rewards-templete .point-circle p {
-                  font-family: Droid Sans;
-                  opacity: 1;
-                  float: none;
-                  display: block;
-                  width: 100%;
-                  height: auto;
-                  background: transparent;
-                }
+#swell-bootstrap .rewards-templete .caption p {
+  font-family: Droid Sans;
+  font-size: 17px;
+  color: #ffffff;
+  opacity: 1;
+  float: none;
+  display: block;
+  width: 100%;
+  height: auto;
+  background: transparent;
+  line-height: 100%;
+  position: relative;
+  text-align: right;
+  top: 221px;
+  right: 132px;
 
-                #swell-bootstrap .rewards-templete .earn-section {
-                  padding-top: 140px;
-                }
-                #swell-bootstrap .rewards-templete .rewards-page-campaigns-section-image {
-                  background-position: center;
-                  background-size: cover;
-                  width: 100%;
-                }
-                #swell-bootstrap .rewards-templete .redeem-section {
-                  padding-top: 35px;
-                }
-                #swell-bootstrap .rewards-templete .rewards-page-redeem-section-image {
-                  background-position: center;
-                  background-size: cover;
-                  width: 100%;
-                }
-                #swell-bootstrap .rewards-templete .banner {
-                  min-height: 338px;
-                  background: #418fde;
-                  max-height: 450px;
-                  overflow: inherit;
-                  position: relative;
-                  -webkit-background-size: cover;
-                  -moz-background-size: cover;
-                  -o-background-size: cover;
-                  background-size: cover;
-                }
-                #swell-bootstrap .rewards-templete .banner img {
-                  width: 100%;
-                  height: 100%;
-                  max-height: 450px;
-                  display: block;
-                }
-                #swell-bootstrap .rewards-templete .banner .caption {
-                  left: 0;
-                  right: 0;
-                  width: 100%;
-                  top: 30%;
-                  padding-top: 0;
-                }
-                #swell-bootstrap .rewards-templete .banner .caption h1,
-                #swell-bootstrap .rewards-templete .banner .caption p {
-                }
-                #swell-bootstrap .rewards-templete .banner .point-circle {
-                  position: absolute;
-                  bottom: -63px;
-                  left: 0;
-                  right: 0;
-                  margin: 0 auto;
-                  border-radius: 100%;
-                  text-align: center;
-                  vertical-align: middle;
-                  width: 170px;
-                  height: 170px;
-                  font-size: 25px;
-                }
-                #swell-bootstrap .rewards-templete .banner .point-circle h2 {
-                  font-size: 60px;
-                  margin: 30px 0 0;
-                  line-height: 55px;
-                }
-                #swell-bootstrap .rewards-templete .main-block .heading-holder {
-                  text-align: center;
-                  margin: 0 0 30px;
-                  font-size: 20px;
-                }
-                #swell-bootstrap .rewards-templete .main-block .heading-holder h2 {
-                  text-transform: capitalize;
-                  font-size: 40px;
-                  font-weight: normal;
-                  margin: 0;
-                  text-align: center;
-                }
-                #swell-bootstrap .rewards-templete .main-block .heading-holder p {
-                  text-align: center;
-                }
-                #swell-bootstrap .rewards-templete .main-block .block-holder {
-                  margin-bottom: 100px;
-                  overflow: hidden;
-                }
-                #swell-bootstrap .rewards-templete .main-block .block-holder .item-box {
-                  min-height: 230px;
-                  text-align: center;
-                  padding: 40px 0 0;
-                  margin-bottom: 20px;
-                  overflow: hidden;
-                  -webkit-background-size: cover;
-                  -moz-background-size: cover;
-                  -o-background-size: cover;
-                  background-size: cover;
-                }
-                #swell-bootstrap .rewards-templete .main-block .block-holder .item-box .icon-holder {
-                  max-width: 60px;
-                  padding: 13px;
-                  margin: 0 auto;
-                  border-radius: 100%;
-                  height: 60px;
-                  text-align: center;
-                }
-                #swell-bootstrap .rewards-templete .main-block .block-holder .item-box .icon-holder i {
-                  font-size: 30px;
-                  padding: 3px 0 0;
-                }
-                #swell-bootstrap .rewards-templete .main-block .block-holder .item-box h3 {
-                  margin: 15px 0 5px;
-                  font-size: 30px;
-                  text-align: center;
-                  opacity: 1;
-                  float: none;
-                  display: block;
-                  width: 100%;
-                  height: auto;
-                  background: transparent;
-                }
-                #swell-bootstrap .rewards-templete .main-block .block-holder .item-box h2 {
-                  margin: 0;
-                  font-size: 35px;
-                  text-align: center;
-                  opacity: 1;
-                  float: none;
-                  display: block;
-                  width: 100%;
-                  height: auto;
-                  background: transparent;
-                }
-                #swell-bootstrap .rewards-templete .referral-block {
-                  padding: 35px 0;
-                  text-align: center;
-                  font-size: 20px;
-                  width: 100%;
-                  height: auto;
-                }
-                #swell-bootstrap .rewards-templete .referral-block h2 {
-                  font-size: 40px;
-                  font-weight: normal;
-                  margin-bottom: 3px;
-                  text-align: center;
-                  opacity: 1;
-                  float: none;
-                  display: block;
-                  width: 100%;
-                  height: auto;
-                  background: transparent;
-                }
-                #swell-bootstrap .rewards-templete .referral-block p {
-                  text-align: center;
-                  opacity: 1;
-                  float: none;
-                  display: block;
-                  width: 100%;
-                  height: auto;
-                  background: transparent;
-                }
-                #swell-bootstrap .rewards-templete .referral-block .swell-referral-link{
-                  height: auto;
-                  margin: 0;
-                  text-align: center;
-                } 
-                #swell-bootstrap .rewards-templete .btn-block ul {
-                  text-align: center;
-                  padding: 0;
-                  margin: 15px 0 0;
-                  opacity: 1;
-                  float: none;
-                  display: block;
-                  width: 100%;
-                  height: auto;
-                  background: transparent;
-                }
-                #swell-bootstrap .rewards-templete .hover-logout-box .btn-block ul li {
-                  display: block;
-                }
-                #swell-bootstrap .rewards-templete .hover-logout-box .btn-block ul li a {
-                  display: inline-block;
-                  width: 92%;
-                  margin: 0 0 10px;
-                }
-                #swell-bootstrap .rewards-templete .btn-block ul li {
-                  display: inline-block;
-                  padding: 0;
-                  margin: 0 10px 10px;
-                  font-size: 14px;
-                  cursor: pointer;
-                }
-                #swell-bootstrap .rewards-templete .btn-block ul li a {
-                  padding: 12px 5px;
-                  color: #ffffff;
-                  border: 2px solid #ffffff;
-                  min-width: 180px;
-                  display: inline-block;
-                }
-                #swell-bootstrap .rewards-templete .btn-block ul li a:hover {
-                  background-color: #ffffff;
-                  color: #000000;
-                  text-decoration: none;
-                }
-                #swell-bootstrap .rewards-templete .faq-block {
-                  text-align: center;
-                  padding: 50px 0;
-                  background-color: #b4b4b4;
-                }
-                #swell-bootstrap .rewards-templete .block-holder .heading-holder h2 {
-                  margin: 0;
-                  text-align: center;
-                  opacity: 1;
-                  float: none;
-                  display: block;
-                  width: 100%;
-                  height: auto;
-                  padding: 0;
-                  background: transparent;
-                }
-                #swell-bootstrap .rewards-templete .block-holder .heading-holder p {
-                  margin-bottom: 25px;
-                  text-align: center;
-                  opacity: 1;
-                  float: none;
-                  display: block;
-                  width: 100%;
-                  height: auto;
-                  padding: 0;
-                  background: transparent;
-                }
-                #swell-bootstrap .rewards-templete .faq-block .content-block h2 {
-                  color: #000000;
-                  margin: 0;
-                  font-size: 22px;
-                  text-align: center;
-                  font-family: Droid Sans;
-                  opacity: 1;
-                  float: none;
-                  display: block;
-                  width: 100%;
-                  height: auto;
-                  padding: 0;
-                  background: transparent;
-                }
-                #swell-bootstrap .rewards-templete .faq-block .content-block p {
-                  color: #000000;
-                  margin-bottom: 25px;
-                  font-size: 15px;
-                  opacity: 1;
-                  float: none;
-                  display: block;
-                  width: 100%;
-                  height: auto;
-                  padding: 0;
-                  background: transparent;
-                }
-                #swell-bootstrap .rewards-templete .faq-block .content-block {
-                  font-family: Droid Sans;
-                }
-                @media (max-width: 786px) {
-                  #swell-bootstrap .rewards-templete .banner {
-                    min-height: 180px;
-                  }
-                  #swell-bootstrap .rewards-templete .earn-section {
-                      padding-top: 70px;
-                  }
-                  #swell-bootstrap .rewards-templete .main-block .block-holder {
-                      margin-bottom: 50px;
-                  }
-                  #swell-bootstrap .rewards-templete .banner .caption{
-                    top:20%;
-                    }
-                  #swell-bootstrap .rewards-templete .banner .point-circle {
-                    bottom: -35px;
-                    width: 70px;
-                    height: 70px;
-                    font-size: 16px;
-                  }
-                  #swell-bootstrap .rewards-templete .banner .point-circle h2 {
-                    font-size: 20px;
-                    margin: 15px 0 0;
-                    line-height: 20px;
-                  }
-                  #swell-bootstrap .rewards-templete .hover-logout-box .btn-block ul li {
-                    width: 100%;
-                    margin: 0 0 10px;
-                  }
-                }
+}
+
+#swell-bootstrap .rewards-templete .point-circle {
+  background-color: #000000;
+}
+
+#swell-bootstrap .rewards-templete .point-circle h2,
+#swell-bootstrap .rewards-templete .point-circle p {
+  font-family: Droid Sans;
+  opacity: 1;
+  float: none;
+  display: block;
+  width: 100%;
+  height: auto;
+  background: transparent;
+}
+
+#swell-bootstrap .rewards-templete .earn-section {
+  padding-top: 140px;
+}
+#swell-bootstrap .rewards-templete .rewards-page-campaigns-section-image {
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+}
+#swell-bootstrap .rewards-templete .redeem-section {
+  padding-top: 35px;
+}
+#swell-bootstrap .rewards-templete .rewards-page-redeem-section-image {
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+}
+#swell-bootstrap .rewards-templete .banner {
+  min-height: 338px;
+  background: #418fde;
+  max-height: 450px;
+  overflow: inherit;
+  position: relative;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#swell-bootstrap .rewards-templete .banner img {
+  width: 100%;
+  height: 100%;
+  max-height: 450px;
+  display: block;
+}
+#swell-bootstrap .rewards-templete .banner .caption {
+  left: 0;
+  right: 0;
+  width: 100%;
+  top: 30%;
+  padding-top: 0;
+}
+#swell-bootstrap .rewards-templete .banner .caption h1,
+#swell-bootstrap .rewards-templete .banner .caption p {
+}
+#swell-bootstrap .rewards-templete .banner .point-circle {
+  position: absolute;
+  bottom: -63px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  border-radius: 100%;
+  text-align: center;
+  vertical-align: middle;
+  width: 170px;
+  height: 170px;
+  font-size: 25px;
+}
+#swell-bootstrap .rewards-templete .banner .point-circle h2 {
+  font-size: 60px;
+  margin: 30px 0 0;
+  line-height: 55px;
+}
+#swell-bootstrap .rewards-templete .main-block .heading-holder {
+  text-align: center;
+  margin: 0 0 30px;
+  font-size: 20px;
+}
+#swell-bootstrap .rewards-templete .main-block .heading-holder h2 {
+  text-transform: capitalize;
+  font-size: 40px;
+  font-weight: normal;
+  margin: 0;
+  text-align: center;
+}
+#swell-bootstrap .rewards-templete .main-block .heading-holder p {
+  text-align: center;
+}
+#swell-bootstrap .rewards-templete .main-block .block-holder {
+  margin-bottom: 100px;
+  overflow: hidden;
+}
+#swell-bootstrap .rewards-templete .main-block .block-holder .item-box {
+  min-height: 230px;
+  text-align: center;
+  padding: 40px 0 0;
+  margin-bottom: 20px;
+  overflow: hidden;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#swell-bootstrap .rewards-templete .main-block .block-holder .item-box .icon-holder {
+  max-width: 60px;
+  padding: 13px;
+  margin: 0 auto;
+  border-radius: 100%;
+  height: 60px;
+  text-align: center;
+}
+#swell-bootstrap .rewards-templete .main-block .block-holder .item-box .icon-holder i {
+  font-size: 30px;
+  padding: 3px 0 0;
+}
+#swell-bootstrap .rewards-templete .main-block .block-holder .item-box h3 {
+  margin: 15px 0 5px;
+  font-size: 30px;
+  text-align: center;
+  opacity: 1;
+  float: none;
+  display: block;
+  width: 100%;
+  height: auto;
+  background: transparent;
+}
+#swell-bootstrap .rewards-templete .main-block .block-holder .item-box h2 {
+  margin: 0;
+  font-size: 35px;
+  text-align: center;
+  opacity: 1;
+  float: none;
+  display: block;
+  width: 100%;
+  height: auto;
+  background: transparent;
+}
+#swell-bootstrap .rewards-templete .referral-block {
+  padding: 35px 0;
+  text-align: center;
+  font-size: 20px;
+  width: 100%;
+  height: auto;
+}
+#swell-bootstrap .rewards-templete .referral-block h2 {
+  font-size: 40px;
+  font-weight: normal;
+  margin-bottom: 3px;
+  text-align: center;
+  opacity: 1;
+  float: none;
+  display: block;
+  width: 100%;
+  height: auto;
+  background: transparent;
+}
+#swell-bootstrap .rewards-templete .referral-block p {
+  text-align: center;
+  opacity: 1;
+  float: none;
+  display: block;
+  width: 100%;
+  height: auto;
+  background: transparent;
+}
+#swell-bootstrap .rewards-templete .referral-block .swell-referral-link{
+  height: auto;
+  margin: 0;
+  text-align: center;
+} 
+#swell-bootstrap .rewards-templete .btn-block ul {
+  text-align: center;
+  padding: 0;
+  margin: 15px 0 0;
+  opacity: 1;
+  float: none;
+  display: block;
+  width: 100%;
+  height: auto;
+  background: transparent;
+}
+#swell-bootstrap .rewards-templete .hover-logout-box .btn-block ul li {
+  display: block;
+}
+#swell-bootstrap .rewards-templete .hover-logout-box .btn-block ul li a {
+  display: inline-block;
+  width: 92%;
+  margin: 0 0 10px;
+}
+#swell-bootstrap .rewards-templete .btn-block ul li {
+  display: inline-block;
+  padding: 0;
+  margin: 0 10px 10px;
+  font-size: 14px;
+  cursor: pointer;
+}
+#swell-bootstrap .rewards-templete .btn-block ul li a {
+  padding: 12px 5px;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  min-width: 180px;
+  display: inline-block;
+}
+#swell-bootstrap .rewards-templete .btn-block ul li a:hover {
+  background-color: #ffffff;
+  color: #000000;
+  text-decoration: none;
+}
+#swell-bootstrap .rewards-templete .faq-block {
+  text-align: center;
+  padding: 50px 0;
+  background-color: #b4b4b4;
+}
+#swell-bootstrap .rewards-templete .block-holder .heading-holder h2 {
+  margin: 0;
+  text-align: center;
+  opacity: 1;
+  float: none;
+  display: block;
+  width: 100%;
+  height: auto;
+  padding: 0;
+  background: transparent;
+}
+#swell-bootstrap .rewards-templete .block-holder .heading-holder p {
+  margin-bottom: 25px;
+  text-align: center;
+  opacity: 1;
+  float: none;
+  display: block;
+  width: 100%;
+  height: auto;
+  padding: 0;
+  background: transparent;
+}
+#swell-bootstrap .rewards-templete .faq-block .content-block h2 {
+  color: #000000;
+  margin: 0;
+  font-size: 22px;
+  text-align: center;
+  font-family: Droid Sans;
+  opacity: 1;
+  float: none;
+  display: block;
+  width: 100%;
+  height: auto;
+  padding: 0;
+  background: transparent;
+}
+#swell-bootstrap .rewards-templete .faq-block .content-block p {
+  color: #000000;
+  margin-bottom: 25px;
+  font-size: 15px;
+  opacity: 1;
+  float: none;
+  display: block;
+  width: 100%;
+  height: auto;
+  padding: 0;
+  background: transparent;
+}
+#swell-bootstrap .rewards-templete .faq-block .content-block {
+  font-family: Droid Sans;
+}
+@media (max-width: 786px) {
+  #swell-bootstrap .rewards-templete .banner {
+    min-height: 180px;
+  }
+  #swell-bootstrap .rewards-templete .earn-section {
+      padding-top: 70px;
+  }
+  #swell-bootstrap .rewards-templete .main-block .block-holder {
+      margin-bottom: 50px;
+  }
+  #swell-bootstrap .rewards-templete .banner .caption{
+    top:20%;
+    }
+  #swell-bootstrap .rewards-templete .banner .point-circle {
+    bottom: -35px;
+    width: 70px;
+    height: 70px;
+    font-size: 16px;
+  }
+  #swell-bootstrap .rewards-templete .banner .point-circle h2 {
+    font-size: 20px;
+    margin: 15px 0 0;
+    line-height: 20px;
+  }
+  #swell-bootstrap .rewards-templete .hover-logout-box .btn-block ul li {
+    width: 100%;
+    margin: 0 0 10px;
+  }
+}
+
+
+
+
+.rewards-templete .main-block .block-holder .item-box h2 {
+    text-transform: uppercase;
+}
+
+.rewards-templete .heading-holder h2,
+.rewards-templete .heading-holder p {
+    color: #000000;
+}
+
+.rewards-templete .heading-holder h2 {
+    font-family: Droid Sans;
+    font-size: 40px;
+}
+
+.rewards-templete .heading-holder p {
+    font-family: Droid Sans;
+    font-size: 20px;
+}
+
+.rewards-templete .rewards-page-campaigns-section-image {
+    background: url(false) no-repeat;
+}
+
+.rewards-templete .rewards-page-campaigns-section-color {
+    background-color: #ffffff;
+}
+
+.rewards-templete .main-block .block-holder .item-box {
+    background-color: #4491e0;
+    position: relative;
+}
+
+.rewards-templete .main-block .block-holder .item-box:hover {
+    cursor: pointer;
+    background-color: #b4b4b4;
+}
+
+.rewards-templete .main-block .block-holder .item-box:hover h3,
+.rewards-templete .main-block .block-holder .item-box:hover h2 {
+    color: #FFFFFF;
+}
+
+.rewards-templete .main-block .block-holder .item-box .icon-holder {
+    background-color: #FFFFFF;
+}
+
+.rewards-templete .main-block .block-holder .item-box .icon-holder i {
+    color: #000000;
+}
+
+.rewards-templete .main-block .block-holder .item-box h3 {
+    color: #000000;
+    font-size: 32px;
+}
+
+.rewards-templete .main-block .block-holder .item-box h2 {
+    color: #000000;
+    font-size: 35px;
+}
+
+.rewards-templete .main-block .block-holder .item-box h3,
+.rewards-templete .main-block .block-holder .item-box h2 {
+    font-family: Droid Sans;
+}
+.item-box:hover .hover-logout-box {
+    display: block;
+}
+.rewards-templete .hover-logout-box {
+    background: #b4b4b4;
+    position: absolute;
+    top:0;
+    height: 100%;
+    display: none;
+    padding: 0;
+    width: 100%;
+}
+.rewards-templete .hover-logout-box .btn-block {
+    height: 100%;
+    position: absolute;
+    top: 20%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+.rewards-templete .hover-logout-box .icon-holder {
+    margin-bottom: 60px;
+}
+
+
+.rewards-templete .divider-block {
+    background: url(false) #000000;
+}
+
+.rewards-templete .divider-text {
+    color: #ffffff;
+}
+
+.rewards-templete .referral-block h2 {
+    font-family: Droid Sans;
+    font-size: 40px;
+}
+
+.rewards-templete .referral-block p {
+    font-family: Droid Sans;
+    font-size: 20px;
+}
+
+.rewards-templete .referral-block h3 {
+    font-family: Droid Sans;
+}
+.rewards-templete .referral-block .social-icon ul {
+    padding: 0;
+    margin: 20px 0 0;
+    list-style: none;
+    text-align: center;
+}
+.rewards-templete .referral-block .social-icon ul li {
+    display: inline-block;
+    width: 55px;
+    height: 55px;
+    background-color: #FFFFFF;
+    border-radius: 100%;
+    margin: 0 5px;
+    cursor: pointer;
+    text-align: center;
+}
+.rewards-templete .referral-block .social-icon ul li i {
+    color: #000000;
+    font-size: 34px;
+    margin-top: 13px;
+}
+
+
+
+
+.rewards-templete .rewards-page-redeem-section-image {
+    background: url(false) no-repeat;
+}
+
+.rewards-templete .rewards-page-redeem-section-color {
+    background-color: #ffffff;
+}
+
   
