@@ -10,7 +10,11 @@
 }
 #swell-bootstrap .rewards-templete .banner .img-responsive {
   margin: 0;
-  min-height: 180px;
+  min-height: 100px;
+  position: relative;
+  bottom: 46px;
+  height: 451px;
+    z-index: -1;
 }
 #swell-bootstrap .rewards-templete .container {
   width: 100%;
@@ -21,7 +25,7 @@
 }
 #swell-bootstrap .rewards-templete .caption h1 {
   font-family: Droid Sans;
-  font-size: 48px;
+  font-size: 70px;
   color: #ffffff;
   margin: 10px 0;
   padding: 0;
@@ -31,16 +35,25 @@
   display: block;
   width: 100%;
   height: auto;
-  background: transparent !important;
+  background: transparent;
   position: relative;
   text-align: right;
-  top: 127px;
-  right: 71px;
+  top: 164px;
+  right: 161px;
+  z-index: 1;
+  font-weight: 900;
+ 
+}
+
+#swell-bootstrap .rewards-template .caption .letter h1{
+  display: block;
+  line-height: 1em;
+
 }
 
 #swell-bootstrap .rewards-templete .caption p {
   font-family: Droid Sans;
-  font-size: 17px;
+  font-size: 25px;
   color: #ffffff;
   opacity: 1;
   float: none;
@@ -51,8 +64,9 @@
   line-height: 100%;
   position: relative;
   text-align: right;
-  top: 221px;
-  right: 132px;
+  top: 227px;
+  right: 170px;
+  z-index: 1;
 
 }
 
@@ -69,6 +83,7 @@
   width: 100%;
   height: auto;
   background: transparent;
+  
 }
 
 #swell-bootstrap .rewards-templete .earn-section {
@@ -113,6 +128,7 @@
 }
 #swell-bootstrap .rewards-templete .banner .caption h1,
 #swell-bootstrap .rewards-templete .banner .caption p {
+
 }
 #swell-bootstrap .rewards-templete .banner .point-circle {
   position: absolute;
@@ -131,6 +147,7 @@
   font-size: 60px;
   margin: 30px 0 0;
   line-height: 55px;
+
 }
 #swell-bootstrap .rewards-templete .main-block .heading-holder {
   text-align: center;

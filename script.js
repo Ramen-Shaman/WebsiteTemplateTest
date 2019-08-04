@@ -1,16 +1,18 @@
-             function convertPxToVw(target){
-                 var vw_context = window.innerWidth * 0.01;
-                 return (target / vw_context);
-             }           
-                function checkDevice(){
-                 bannerImage = document.getElementById('banner-img');
-                    element = document.getElementById('hero-background-image-link');
-                        if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) && (element.getAttribute('data-mobile-image') && element.getAttribute('data-mobile-image') !='false' )){
-                            bannerImage.src = element.getAttribute('data-mobile-image');
-                            bannerImage.style.display = 'block';
-                        }
-                            else{
-                                if(element.getAttribute('data-desktop-image') && element.getAttribute('data-desktop-image') !='false'){
+function convertPxToVw(target) {
+    "use strict";
+    var vw_context = window.innerWidth * 0.01;
+    return (target / vw_context);
+}
+
+function checkDevice() {
+    bannerImage = document.getElementById('banner-img');
+    element = document.getElementById('hero-background-image-link');
+    
+    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile| Chrome Mobile | Opera Mini/i.test(navigator.userAgent) && (element.getAttribute('data-mobile-image') && element.getAttribute('data-mobile-image') !== 'false')) {
+        bannerImage.src = element.getAttribute('data-mobile-image');
+        bannerImage.style.display = 'block';
+    } else {
+        if (element.getAttribute('data-desktop-image') && element.getAttribute('data-desktop-image') !== 'false') {
                                     bannerImage.src = element.getAttribute('data-desktop-image');
                                     bannerImage.style.display = 'block'; 
                                 }
